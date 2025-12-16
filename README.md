@@ -66,11 +66,7 @@ python air_notepad.py
 
 ---
 
-## 📷 Demo
 
-> (Optional) Add screenshots or a GIF here to showcase the project.
-
----
 
 ## 📁 Project Structure
 
